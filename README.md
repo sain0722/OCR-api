@@ -27,9 +27,9 @@ root
 ├── sub2
 │   ├── image_01.png
 │   └── image_02.png
-│   sub3
+├── sub3
 │   ├── image_01.png
-└── └── image_02.png
+│   └── image_02.png
 ```
 
 ### 2. OUTPUT PATH를 설정
