@@ -14,7 +14,7 @@ https://blog.naver.com/nanotoly/222032083807
 5. PowerShell에서 환경 변수 설정
 6. 구글 클라이언트 라이브러리 설치
 
-## 코드 실행 프로세스
+## `remove_text.py` 코드 실행 프로세스
 
 ### 1. ROOT DIR을 설정
 
@@ -74,3 +74,9 @@ for dir in sub_dir[::-1]:
 ```
 
 정방향과 역방향의 두 코드가 만나면, ```if os.path.isfile(output_path)``` 조건에 걸려서 빠르게 넘어가게 되고, 곧 실행이 종료됩니다.
+<br>
+## `remove_text_one.py` 코드 실행
+
+```
+python remove_text_one.py -i <image_path>
+```
