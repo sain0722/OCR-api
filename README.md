@@ -1,5 +1,7 @@
 ## 이미지 비식별화 (OCR) 코드 사용 방법
 
+![image](https://im4.ezgif.com/tmp/ezgif-4-68feab06f419.gif)  
+
 ■ 선행사항
 
 아래 블로그를 따라 Google OCR API를 사용하기 위한 준비를 마칩니다.  
